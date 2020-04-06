@@ -1,6 +1,6 @@
 # Framework for an Industrial Service Bus with IOT Edge
 
-Welcome to our approach to design an independant framework of an industrial service bus which can run on the factory floor. With our initial design session, we had more than 30+ participants from various companies, like #Intel, #HPE, #Senseering and many others, which contributed to designs, code, use cases and prerequsite definitions.
+Welcome to our approach to design an independant framework of an industrial service bus which can run on the factory floor. With our initial design session, we had more than 30+ participants from various companies, like #Intel, #HPE, [#Senseering](https://senseering.de/) and many others, which contributed to designs, code, use cases and prerequsite definitions.
 Since this is the first start of our community approach, we are going to continously improve this Github Repo and work on the documentation and features.
 The little architecture drawing below shows the overall architecture and some functionality, which we are going to explain in the ["docs"](docs/README.md)  section. The code for a fast implementation can be found in the ["src"](src/README.md) section.
 
